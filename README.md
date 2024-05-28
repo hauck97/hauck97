@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @hauck97
 - 👀 I’m interested in Web-Development, SOLID and Clean Code Engineering, Compiler-Building
 - 🌱 I’m currently learning PHP, JavaScript, C, C++, ASM
 
